@@ -108,7 +108,7 @@ int main() {
         } 
         break;
     default:
-      printf("Opção inválida. Tente novamente.\n");
+        printf("Opção inválida. Tente novamente.\n");
     }
     
 
